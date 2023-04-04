@@ -26,6 +26,14 @@ function App() {
         >
           Visit Portugal
         </a>
+        <a
+          className="App-link"
+          href="https://en.wikipedia.org/wiki/Scotland"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Visit Scotland
+        </a>
       </header>
     </div>
   );
